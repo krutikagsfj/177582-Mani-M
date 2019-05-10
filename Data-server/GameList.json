@@ -1,0 +1,24 @@
+{
+    "GameList": [
+        {
+        "game_name": "Shooting",
+        "game_cost": "Rs105"
+        },
+        {
+            "game_name": "AngryBirds",
+        "game_cost": "Rs95"
+        },
+        {
+        "game_name": "TempleRun",
+        "game_cost": "Rs200"
+        },
+        {
+            "game_name": "BikeRace",
+        "game_cost": "Rs90"
+        },
+        {
+            "game_name": "AirControl",
+        "game_cost": "Rs800"
+        }
+    ]
+}
